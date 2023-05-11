@@ -1,8 +1,10 @@
 # Tasks
 
-## React, CSS, Hooks - useState, useEffect, useCallback, useRef, Firebase
+## This is a simple task app.
 
-### Demo - https://starwarsapi-k1vr.onrender.com
+## React, CSS, Hooks - useState, useEffect, useCallback, Custom Hook, Firebase
+
+### Demo - https://tasks-f9ou.onrender.com
 
 ---
 
